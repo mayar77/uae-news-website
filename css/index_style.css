@@ -1,0 +1,31 @@
+
+.test
+{
+    width: 400px;
+    height: 400px;
+    border: solid 2px red;
+}
+body
+{
+    
+    background-color: #f8f1fa;
+    
+}
+nav
+{
+    background-color: rgba(0,0,0,0.8);
+ font-size: 18px;   
+    color: white;
+    
+}
+ nav .navbar-brand
+{
+    
+        color: red;
+}
+
+.copyright
+{
+    color: white;
+     background-color: rgba(0,0,0,1);
+}
